@@ -1,0 +1,16 @@
+.content {
+  display: flex;
+  justify-content: center;
+
+  .monthly-consumption-container {
+
+    display: block;
+    text-align: left;
+
+    .monthly-consumption {
+      display: block;
+      text-align: left;
+    }
+  }
+
+}
